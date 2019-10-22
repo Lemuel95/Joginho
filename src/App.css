@@ -1,0 +1,8 @@
+.borda-row{
+    width: 60px;
+    height: 60px;
+    background-color: brown;
+    font-size: 40px;
+    box-shadow: 10px 8px 8px cornflowerblue;
+    transform-box: red;
+}
